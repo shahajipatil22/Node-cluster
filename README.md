@@ -1,4 +1,4 @@
-# Note-cluster
+# Node-cluster
 
 ## Start the application:
 - Open a terminal and run the following command to start your application:
